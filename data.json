@@ -1,0 +1,20 @@
+{
+    "CLO-001": {
+        "type": "Clothing",
+        "product_id": "CLO-001",
+        "name": "T-shirt",
+        "price": 800.0,
+        "quantity": 33,
+        "size": "small",
+        "material": "Polo"
+    },
+    "ELE_001": {
+        "type": "Electronics",
+        "product_id": "ELE_001",
+        "name": "Fan",
+        "price": 1200.0,
+        "quantity": 25,
+        "brand": "Khursheed",
+        "warranty_years": 2
+    }
+}
